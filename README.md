@@ -1,7 +1,7 @@
 # tkinter_GUI
 多线程用于接收串口发过来的数据。
 
- - [串口demo界面截图]([https://github.com/WeiFeiLong/tkinter_GUI/blob/master/image/demo.jpg)
+ - [串口demo界面截图](https://github.com/WeiFeiLong/tkinter_GUI/blob/master/image/demo.jpg)
  - [网口demo界面截图](https://github.com/WeiFeiLong/tkinter_GUI/blob/master/image/demo_net.jpg)
 
 
